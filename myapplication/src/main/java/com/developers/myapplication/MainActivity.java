@@ -65,7 +65,7 @@ public class MainActivity extends QsActivity {
         btn_call.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                callPhone("13213507915");
+                callPhone("13501299453");
             }
         });
     }
